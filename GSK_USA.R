@@ -1,6 +1,6 @@
 ###############
 ##
-##
+## R Script to build a sample presentation about ML applications in business
 ##
 ###############
 
